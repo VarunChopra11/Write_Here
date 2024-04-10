@@ -7,23 +7,8 @@ Write_Here ! - A ToDo List React App By Varun Chopra.
  For frontend design you can also refer "design.fig" for figma file. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#
+#
 
 
 

@@ -1,0 +1,58 @@
+
+.App{
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  height: auto;
+  background-color: #222831;
+}
+
+.inputSection{
+  display: flex;
+  width: 40vw;
+  height: 5vh;
+  margin-top: 10vh;
+  background-color: #76ABAE;
+  border-radius: 2vw;
+}
+
+#inputText {
+  width: 20vw;
+  margin-right: 5vw;
+  border-radius: 2vw;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #76ABAE;
+  border: #76ABAE;
+  outline: none;
+  padding-left: 1vw;
+}
+
+#inputText::placeholder {
+  color: #222831;
+}
+
+.InputButton{
+  font-size: calc(1vw + 1vh);
+  font-family: 'Times New Roman', Times, serif;
+  width: 10vw;
+  height: 3vh;
+  margin: 1vh 2vw ;
+  padding: 0px 0px;
+  border-radius: 2vw;
+  background-color: #EEEEEE;
+  border: #76ABAE;
+  color: #222831;
+}
+
+h1{
+  font-size: calc(3vw + 1.8vh);
+  margin: calc(3vw + 2vh);
+  margin-left: 0px;
+  color: #EEEEEE;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #76ABAE;
+}
